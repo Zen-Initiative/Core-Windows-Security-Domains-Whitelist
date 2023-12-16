@@ -9,10 +9,14 @@
 
 --- 
 
-Direct link:
+### Direct link:
 
 --- 
 
-Sources:
+### Sources:
+
+- [Configure and validate Microsoft Defender Antivirus network connections (Microsoft Learn)](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/configure-network-connections-microsoft-defender-antivirus?view=o365-worldwide)
+
+- [Configure your firewall to allow your first WSUS server to connect to Microsoft domains on the internet (Microsoft Learn)](https://learn.microsoft.com/en-us/windows-server/administration/windows-server-update-services/deploy/2-configure-wsus#211-configure-your-firewall-to-allow-your-first-wsus-server-to-connect-to-microsoft-domains-on-the-internet)
 
 ---
