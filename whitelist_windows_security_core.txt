@@ -1,0 +1,25 @@
+##### Whitelist for MS Defender/Windows Update/Smartscreen/Outlook Safelinks #####
+
+#### Main Sources:
+#### https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/configure-network-connections-microsoft-defender-antivirus
+#### https://learn.microsoft.com/en-us/windows-server/administration/windows-server-update-services/deploy/2-configure-wsus
+
+wdcp.microsoft.com
+wdcpalt.microsoft.com
+wd.microsoft.com
+update.microsoft.com
+delivery.mp.microsoft.com
+windowsupdate.com
+download.microsoft.com
+go.microsoft.com
+www.microsoft.com
+crl.microsoft.com
+definitionupdates.microsoft.com
+data.microsoft.com
+data.microsoft.com.akadns.net
+msftconnecttest.com
+windowsupdate.microsoft.com
+wustat.windows.com
+ntservicepack.microsoft.com
+smartscreen.microsoft.com
+safelinks.protection.outlook.com
