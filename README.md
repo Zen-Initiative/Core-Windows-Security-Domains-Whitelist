@@ -1,5 +1,5 @@
 # 🪟 Core Windows (Security-Related) Domains Whitelist
-- A lightweight domain whitelist for core Windows/Microsoft/Outlook security-related functions.
+- A lightweight domain whitelist for core Windows/Microsoft/Outlook security-related features.
 - Included:
   - Microsoft Defender
   - SmartScreen
