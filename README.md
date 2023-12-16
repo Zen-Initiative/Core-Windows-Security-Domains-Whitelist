@@ -4,7 +4,7 @@
   - Microsoft Defender
   - SmartScreen
   - Outlook Safelinks
-  - Windows Update (for MS Defender security intelligence definition updates)
+  - Windows Update (for system updates & MS Defender security intelligence definition updates)
 - Not included: other Microsoft products (Office, Bing, Edge, Xbox etc.)
 
 --- 
