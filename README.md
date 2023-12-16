@@ -9,11 +9,14 @@
 
 --- 
 
-### Direct link:
+#### Direct link
+
+Whitelist_windows_security_core.txt:
+- [https://raw.githubusercontent.com/Zen-Initiative/Core-Windows-Security-Domains-Whitelist/main/whitelist_windows_security_core.txt](https://raw.githubusercontent.com/Zen-Initiative/Core-Windows-Security-Domains-Whitelist/main/whitelist_windows_security_core.txt)
 
 --- 
 
-### Sources:
+#### Main Sources
 
 - [Configure and validate Microsoft Defender Antivirus network connections (Microsoft Learn)](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/configure-network-connections-microsoft-defender-antivirus?view=o365-worldwide)
 
