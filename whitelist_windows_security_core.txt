@@ -1,25 +1,45 @@
-##### Whitelist for MS Defender/Windows Update/Smartscreen/Outlook Safelinks #####
+## Whitelist for MS Defender/Windows Update/Smartscreen/Outlook Safelinks
+## Last update: 10 Jan 2024
 
-#### Main Sources:
-#### https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/configure-network-connections-microsoft-defender-antivirus
-#### https://learn.microsoft.com/en-us/windows-server/administration/windows-server-update-services/deploy/2-configure-wsus
+## Main Sources:
+## [Configure and validate Microsoft Defender Antivirus network connections](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/configure-network-connections-microsoft-defender-antivirus)
+## [Windows Server Update Services (WSUS) - Step 2: Configure WSUS](https://learn.microsoft.com/en-us/windows-server/administration/windows-server-update-services/deploy/2-configure-wsus)
+## [Manage connection endpoints for Windows 11 Enterprise](https://learn.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints)
+## [Manage connection endpoints for Windows 10 Enterprise, version 21H2](https://learn.microsoft.com/en-us/windows/privacy/manage-windows-21h2-endpoints)
+## [Windows 11 connection endpoints for non-Enterprise editions](https://learn.microsoft.com/en-us/windows/privacy/windows-11-endpoints-non-enterprise-editions)
+## [Windows 10, version 21H1, connection endpoints for non-Enterprise editions](https://learn.microsoft.com/en-us/windows/privacy/windows-endpoints-21h1-non-enterprise-editions)
 
-wdcp.microsoft.com
-wdcpalt.microsoft.com
-wd.microsoft.com
-update.microsoft.com
-delivery.mp.microsoft.com
-windowsupdate.com
-download.microsoft.com
-go.microsoft.com
-www.microsoft.com
+
+adl.windows.com
+checkappexec.microsoft.com
 crl.microsoft.com
-definitionupdates.microsoft.com
+ctldl.windowsupdate.com
+data-edge.smartscreen.microsoft.com
 data.microsoft.com
 data.microsoft.com.akadns.net
+definitionupdates.microsoft.com
+delivery.mp.microsoft.com
+dl.delivery.mp.microsoft.com
+download.microsoft.com
+download.windowsupdate.com
+emdl.ws.microsoft.com
+go.microsoft.com
 msftconnecttest.com
+nav-edge.smartscreen.microsoft.com
+ntservicepack.microsoft.com
+ocsp.digicert.com
+ping-edge.smartscreen.microsoft.com
+prod.do.dsp.mp.microsoft.com
+safelinks.protection.outlook.com
+smartscreen-prod.microsoft.com
+smartscreen.microsoft.com
+storecatalogrevocation.storequality.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
+update.microsoft.com
+wd.microsoft.com
+wdcp.microsoft.com
+wdcpalt.microsoft.com
+windowsupdate.com
 windowsupdate.microsoft.com
 wustat.windows.com
-ntservicepack.microsoft.com
-smartscreen.microsoft.com
-safelinks.protection.outlook.com
+www.microsoft.com
