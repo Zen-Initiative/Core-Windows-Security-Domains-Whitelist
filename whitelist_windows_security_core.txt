@@ -1,5 +1,5 @@
 ## Whitelist for MS Defender/Windows Update/Smartscreen/Outlook Safelinks
-## Last update: 11 Jan 2024
+## Last update: 12 Jan 2024
 
 ## Main Sources:
 ## [Configure and validate Microsoft Defender Antivirus network connections](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/configure-network-connections-microsoft-defender-antivirus)
@@ -9,6 +9,7 @@
 ## [Windows 11 connection endpoints for non-Enterprise editions](https://learn.microsoft.com/en-us/windows/privacy/windows-11-endpoints-non-enterprise-editions)
 ## [Windows 10, version 21H1, connection endpoints for non-Enterprise editions](https://learn.microsoft.com/en-us/windows/privacy/windows-endpoints-21h1-non-enterprise-editions)
 
+akamai.net
 ocsp.digicert.com
 checkappexec.microsoft.com
 crl.microsoft.com
@@ -39,4 +40,3 @@ wustat.windows.com
 windowsupdate.com
 ctldl.windowsupdate.com
 download.windowsupdate.com
-
